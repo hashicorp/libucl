@@ -1,4 +1,6 @@
 #!/bin/sh
+# Copyright IBM Corp. 2013, 2014
+
 
 if [ $# -lt 1 ] ; then
 	echo 'Specify binary to run as the first argument'

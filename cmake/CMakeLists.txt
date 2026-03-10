@@ -1,3 +1,5 @@
+# Copyright IBM Corp. 2013, 2014
+
 PROJECT(libucl C)
 
 SET(LIBUCL_VERSION_MAJOR 0)
